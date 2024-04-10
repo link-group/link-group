@@ -1,1 +1,3 @@
-# link-group
+# LINK
+Language Intelligence and Knowledge 
+
